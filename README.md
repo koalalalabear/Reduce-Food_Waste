@@ -10,7 +10,6 @@ This project uses a custom trained EfficientNetB0 Model to detect fresh produce 
 
 ## Sources:
 
-[Google codelabs]([https://developers.google.com/codelabs/tflite-object-detection-android#0](https://developers.google.com/codelabs/tflite-object-detection-android#2)
 [Setting up and configuring the emulator](https://developer.android.com/studio/run/emulator)
 [Realtime Object Detection Android App youtube tutorial](https://developer.android.com/studio/run/emulator)
 [How to Enable USB Debugging on an Android Device](https://www.youtube.com/watch?v=0usgePpr8_Y&ab_channel=TheUnlockr)
