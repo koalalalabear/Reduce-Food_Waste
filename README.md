@@ -1,4 +1,4 @@
-# Reduce-Food_Waste
+# Reduce-Food-Waste
 This project uses a custom trained EfficientNetB0 Model to detect fresh produce and displays the duration that the produce is fresh for. It is an android application of the [Fresh-to-Death-Data-Science-Project](https://github.com/koalalalabear/Fresh-to-Death-Data-Science-Project/tree/main) project as I wanted to challenge myself to gain some android development experience since I had none. 
 
 ## Builing and Running the App:
