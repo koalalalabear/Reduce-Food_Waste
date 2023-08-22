@@ -10,8 +10,9 @@ This project uses a custom trained EfficientNetB0 Model to detect fresh produce 
 
 ## Sources:
 
-[Setting up and configuring the emulator](https://developer.android.com/studio/run/emulator)
-[Realtime Object Detection Android App youtube tutorial](https://developer.android.com/studio/run/emulator)
-[How to Enable USB Debugging on an Android Device](https://www.youtube.com/watch?v=0usgePpr8_Y&ab_channel=TheUnlockr)
+[Setting up and configuring the emulator](https://developer.android.com/studio/run/emulator) <br>
+[Realtime Object Detection Android App youtube tutorial](https://developer.android.com/studio/run/emulator) <br>
+[How to Enable USB Debugging on an Android Device](https://www.youtube.com/watch?v=0usgePpr8_Y&ab_channel=TheUnlockr) <br>
+
 
 
