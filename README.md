@@ -6,7 +6,7 @@ This project uses a custom trained EfficientNetB0 Model to detect fresh produce 
 1. Download the code for the starter app from [google codelabs](https://developers.google.com/codelabs/tflite-object-detection-android#2) which was designed for experienced mobile developers who want to gain experience with Machine Learning.
 2. Import starter folder into Android Studio and sync the project with Gradle Files.
 3. Add custom model.tflite to the starter app under assets folder of the starter app and updated dependencies in gradle.
-4. Set up and run on-device object detection on an image by modifying the function runObjectDetection in MainActivity.kt, including using TFLite's API to create a TensorImage from Bitmap, implementing and tuning the object detector instance and displaing the results.
+4. Set up and run on-device object detection on an image by modifying the function runObjectDetection in MainActivity.kt, including using TFLite's API to create a TensorImage from Bitmap, implementing and tuning the object detector instance and displaying the results.
 
 ## Sources:
 
